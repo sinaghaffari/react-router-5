@@ -1,5 +1,5 @@
 {
-  "name": "react-router-5",
+  "name": "@sinaghaffari/react-router-5",
   "version": "5.1.2",
   "description": "Declarative routing for React",
   "repository": "ReactTraining/react-router",

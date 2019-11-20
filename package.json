@@ -1,5 +1,5 @@
 {
-  "name": "react-router-packages",
+  "name": "@sinaghaffari/react-router-packages-5",
   "private": true,
   "scripts": {
     "build": "node ./scripts/build.js",
